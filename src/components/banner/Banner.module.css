@@ -1,0 +1,32 @@
+.banner {
+    padding: 3rem 7.5rem 6.25rem;
+    background-color: #3e3e3e;
+    color: var(--branco);
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    gap: 2rem;
+  }
+  
+  .content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+  .title {
+    font-size: 2.2rem;
+    margin-bottom: 2rem;
+  }
+  
+  .text {
+    font-size: 1.5rem;
+  }
+  
+  .image {
+    width: 100%;
+    max-width: 1000px; 
+    height: auto;
+    justify-self: center;
+  }
+  

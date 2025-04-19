@@ -1,7 +1,11 @@
-import { Link } from "react-router-dom"
+import { Link, useLocation } from "react-router-dom"
 import styles from "./NavBar.module.css"
 
 export default function NavBar() {
+    const location = useLocation();
+
+    console.log(location);
+
     return (
         <header>
             <nav className={styles.navegacao}>
