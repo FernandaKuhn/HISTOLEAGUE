@@ -1,9 +1,16 @@
+import {BrowserRouter, Route, Routes} from "react-router-dom"
+import AboutLol from "./pages/aboutLOL";
+import Home from "./pages/home";
+
 
 function App() {
   return (
-    <div className="App">
-      <h1>HISTOLEAGUE</h1>
-    </div>
+    <BrowserRouter>
+    <Routes>
+      <Route path= "/" element={<Home/>}/>
+      <Route path= "/aboutlol" element={<AboutLol/>}/>
+    </Routes>
+    </BrowserRouter>
   );
 }
 
