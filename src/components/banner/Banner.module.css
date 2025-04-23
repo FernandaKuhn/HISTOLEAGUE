@@ -1,32 +1,40 @@
 .banner {
-    padding: 3rem 7.5rem 6.25rem;
-    background-color: #3e3e3e;
-    color: var(--branco);
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    align-items: center;
-    gap: 2rem;
+  background-color: #3e3e3e;
+  overflow: hidden;
+  width: 100%;
+  position: relative;
+}
+
+.carousel {
+  display: flex;
+  animation: slide 30s linear infinite;
+  height: clamp(200px, 60vh, 700px); 
+}
+
+.image {
+  flex-shrink: 0;
+  height: 100%;
+  width: auto; 
+  object-fit: contain; 
+}
+
+
+@media (max-width: 768px) {
+  .carousel {
+    height: 40vh;
   }
-  
-  .content {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
+}
+
+@media (max-width: 480px) {
+  .carousel {
+    height: 30vh;
   }
-  
-  .title {
-    font-size: 2.2rem;
-    margin-bottom: 2rem;
-  }
-  
-  .text {
-    font-size: 1.5rem;
-  }
-  
-  .image {
-    width: 100%;
-    max-width: 1000px; 
-    height: auto;
-    justify-self: center;
-  }
-  
+}
+
+
+@keyframes slide {
+  0% { transform: translateX(0); }
+  33.33% { transform: translateX(-100%); }
+  66.66% { transform: translateX(-200%); }
+  100% { transform: translateX(0); }
+}
