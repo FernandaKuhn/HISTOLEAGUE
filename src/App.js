@@ -2,7 +2,7 @@ import { BrowserRouter, Route, Routes } from "react-router-dom"
 import AboutLol from "./pages/aboutLOL";
 import Home from "./pages/home";
 import NavBar from "./components/navbar";
-import Footer from "components/footer";
+import Footer from "./components/footer";
 import Cblol from "pages/cblol";
 
 function App() {

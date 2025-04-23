@@ -3,6 +3,6 @@
 
 export default function Cblol() {
     return (
-        <h1>Sobre o jogo</h1>
+        <h1>Sobre o CBLOL</h1>
     )
 }
