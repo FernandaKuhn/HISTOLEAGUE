@@ -1,10 +1,30 @@
 .team {
-    padding: 0 6vw 3.625rem;
+    padding: 0 6vw 3.6rem;
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
     gap: 1.5rem;
 }
+
+.description {
+    font-size: 1rem;
+    color: #313131;
+    max-width: 700px;
+    margin: 0 auto 2rem;
+    text-align: center;
+    line-height: 1.5rem;
+    padding-bottom: 0.5rem;
+}
+
+h3 {
+    font-family: var(--fonte-principal);
+    font-size: 2rem;
+    color: var(--azul-escuro);
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 0.5rem;
+}
+
 
 @media (max-width: 1100px) {
     .team {
