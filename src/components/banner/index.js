@@ -6,7 +6,7 @@ import quartaImagem from "../../assets/4.png";
 import quintaImagem from "../../assets/5.png";
 
 export default function Banner() {
-  const imagens = [histolol, segundaImagem, terceiraImagem, quartaImagem, quartaImagem];
+  const imagens = [histolol, segundaImagem, terceiraImagem, quartaImagem, quintaImagem];
 
   return (
     <div className={styles.banner}>
