@@ -3,3 +3,4 @@ export default function AboutLol(){
         <h1>Sobre o jogo</h1>
     )
 }
+
