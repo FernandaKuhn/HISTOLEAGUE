@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "titulo": "LOUD",
+      "texto": "A LOUD é uma das principais equipes de League of Legends no Brasil, com três títulos de CBLOL (2022 2ª etapa, 2023 1ª etapa e 2024 1ª etapa)."
+    },
+    {
+      "id": 2,
+      "titulo": "paiN Gaming",
+      "texto": "A paiN Gaming é uma das organizações mais tradicionais do Brasil, com múltiplos títulos nacionais e uma torcida apaixonada."
+    },
+    {
+      "id": 3,
+      "titulo": "RED Canids",
+      "texto": "A RED Canids é conhecida por seu estilo agressivo e já conquistou três títulos do CBLOL, sendo uma força constante no cenário competitivo."
+    },
+    {
+      "id": 4,
+      "titulo": "Vivo Keyd Stars",
+      "texto": "A Vivo Keyd Stars é uma equipe tradicional no cenário brasileiro, sempre buscando inovação e revelando novos talentos."
+    },
+    {
+      "id": 5,
+      "titulo": "FURIA",
+      "texto": "A FURIA é uma organização brasileira que rapidamente se destacou no cenário de League of Legends, apostando em jovens talentos promissores."
+    },
+    {
+      "id": 6,
+      "titulo": "Fluxo W7M",
+      "texto": "O Fluxo, fundado por Nobru e Cerol, uniu forças com a W7M para a LTA Sul 2025, combinando excelência e tradição no cenário competitivo."
+    },
+    {
+      "id": 7,
+      "titulo": "Leviatán",
+      "texto": "A Leviatán é uma equipe argentina que estreia na LTA Sul em 2025 após conquistar a LLA, trazendo seu espírito competitivo para a nova conferência."
+    },
+    {
+      "id": 8,
+      "titulo": "Isurus",
+      "texto": "A Isurus, também da Argentina, é uma equipe convidada na LTA Sul 2025, com títulos e aparições em Worlds, representando o talento latino-americano."
+    }
+  ]
+  

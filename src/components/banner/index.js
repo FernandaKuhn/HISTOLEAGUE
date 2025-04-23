@@ -10,6 +10,12 @@ export default function Banner() {
 
   return (
     <div className={styles.banner}>
+      <div className={styles.container}>
+        <h1 className={styles.titulo}>HISTOLEAGUE</h1>
+        <h3 className={styles.subtitulo}>
+          Reviva os momentos que transformaram jogadores em heróis.
+        </h3>
+      </div>
       <div className={styles.carousel}>
         {imagens.map((imagem, index) => (
           <img
@@ -21,12 +27,6 @@ export default function Banner() {
 
         ))}
 
-      </div>
-      <div className={styles.container}>
-        <h1 className={styles.titulo}>HISTOLEAGUE</h1>
-        <h3 className={styles.subtitulo}>
-          Reviva os momentos que transformaram jogadores em heróis.
-        </h3>
       </div>
     </div>
   );

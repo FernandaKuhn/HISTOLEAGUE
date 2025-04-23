@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "titulo": "LOUD",
+      "texto": "A LOUD é uma das principais equipes de League of Legends no Brasil, com quatro títulos de CBLOL (2022 2ª etapa, 2023 1ª e 2ª etapas e 2024 1ª etapa)."
+    },
+    {
+      "id": 2,
+      "titulo": "paiN Gaming",
+      "texto": "A paiN Gaming é uma das organizações mais tradicionais do Brasil, com múltiplos títulos nacionais e uma torcida apaixonada."
+    },
+    {
+      "id": 3,
+      "titulo": "RED Canids",
+      "texto": "A RED Canids é conhecida por seu estilo agressivo e já conquistou três títulos do CBLOL, sendo uma força constante no cenário competitivo."
+    },
+    {
+      "id": 4,
+      "titulo": "Vivo Keyd Stars",
+      "texto": "A Vivo Keyd Stars é uma equipe tradicional no cenário brasileiro, sempre buscando inovação e revelando novos talentos."
+    },
+    {
+      "id": 5,
+      "titulo": "FURIA",
+      "texto": "A FURIA é uma organização brasileira que rapidamente se destacou no cenário de League of Legends, apostando em jovens talentos promissores."
+    },
+    {
+      "id": 6,
+      "titulo": "Fluxo W7M",
+      "texto": "O Fluxo, fundado por Nobru e Cerol, uniu forças com a W7M para a LTA Sul 2025, combinando excelência e tradição no cenário competitivo."
+    },
+    {
+      "id": 9,
+      "titulo": "INTZ",
+      "texto": "A INTZ é uma das equipes mais vitoriosas do CBLOL, com cinco títulos conquistados entre 2015 e 2020, sendo referência no cenário nacional."
+    },
+    {
+      "id": 10,
+      "titulo": "KaBuM! Esports",
+      "texto": "A KaBuM! Esports foi a primeira equipe brasileira a vencer um jogo no Mundial de League of Legends e possui quatro títulos do CBLOL."
+    },
+    {
+      "id": 11,
+      "titulo": "Flamengo Esports",
+      "texto": "O Flamengo Esports, divisão de eSports do clube de futebol, foi campeão do CBLOL em 2019 e teve grande impacto no cenário competitivo."
+    },
+    {
+      "id": 12,
+      "titulo": "CNB e-Sports Club",
+      "texto": "A CNB foi uma das equipes pioneiras do CBLOL, com diversas participações e desempenhos consistentes ao longo dos anos."
+    },
+    {
+      "id": 13,
+      "titulo": "Team oNe eSports",
+      "texto": "A Team oNe conquistou o CBLOL em 2017, surpreendendo o cenário com uma campanha memorável e representando o Brasil no Mundial."
+    },
+    {
+      "id": 14,
+      "titulo": "Liberty",
+      "texto": "A Liberty, anteriormente Havan Liberty e Vorax Liberty, participou do CBLOL até 2024, quando encerrou suas atividades após não ser selecionada para a nova liga."
+    },
+    {
+      "id": 15,
+      "titulo": "Netshoes Miners",
+      "texto": "A Netshoes Miners, anteriormente conhecida como Cruzeiro eSports, competiu no CBLOL entre 2021 e 2022, destacando-se por promover diversidade no cenário."
+    },
+    {
+      "id": 16,
+      "titulo": "Los Grandes",
+      "texto": "A Los Grandes ingressou no CBLOL em 2023, trazendo uma nova abordagem e conquistando rapidamente uma base de fãs dedicada."
+    },
+    {
+      "id": 17,
+      "titulo": "Rensga Esports",
+      "texto": "A Rensga Esports, equipe de Goiás, participou do CBLOL em 2021 e 2022, destacando-se pela identidade regional e carisma."
+    },
+    {
+      "id": 18,
+      "titulo": "Uppercut Esports",
+      "texto": "A Uppercut Esports teve presença no CBLOL em 2019, sendo conhecida por sua performance consistente e desenvolvimento de talentos."
+    },
+    {
+      "id": 19,
+      "titulo": "ProGaming Esports",
+      "texto": "A ProGaming Esports participou do CBLOL em diversas edições, sendo reconhecida por sua dedicação ao crescimento do cenário competitivo."
+    },
+    {
+      "id": 20,
+      "titulo": "Operation Kino",
+      "texto": "A Operation Kino teve uma breve passagem pelo CBLOL, mas deixou sua marca com jogadas memoráveis e espírito competitivo."
+    },
+    {
+      "id": 21,
+      "titulo": "g3nerationX",
+      "texto": "A g3nerationX foi uma das equipes participantes das primeiras edições do CBLOL, contribuindo para o desenvolvimento inicial do cenário."
+    },
+    {
+      "id": 22,
+      "titulo": "vTi Ignis",
+      "texto": "A vTi Ignis foi a campeã da primeira edição do CBLOL em 2012, sendo parte fundamental da história do League of Legends no Brasil."
+    },
+    {
+      "id": 23,
+      "titulo": "vTi Nox",
+      "texto": "A vTi Nox participou das primeiras competições de League of Legends no Brasil, sendo uma das precursoras do cenário competitivo nacional."
+    },
+    {
+      "id": 24,
+      "titulo": "Insight eSports",
+      "texto": "A Insight eSports teve participação nas edições iniciais do CBLOL, contribuindo para a formação do cenário competitivo brasileiro."
+    },
+    {
+      "id": 25,
+      "titulo": "RMA e-Sports",
+      "texto": "A RMA e-Sports foi uma das equipes participantes das primeiras edições do CBLOL, ajudando a moldar o cenário competitivo no país."
+    },
+    {
+      "id": 26,
+      "titulo": "Nex Impetus",
+      "texto": "A Nex Impetus teve presença nas edições iniciais do CBLOL, sendo parte da história do League of Legends competitivo no Brasil."
+    }
+  ]
+  
