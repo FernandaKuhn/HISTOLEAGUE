@@ -15,6 +15,9 @@ export default function NavBar() {
                 <Link className={styles.link} to="/aboutlol">
                     Sobre LOL
                 </Link>
+                <Link className={styles.link} to="/cblol">
+                     CBLOL
+                </Link>
             </nav>
         </header>
     )
