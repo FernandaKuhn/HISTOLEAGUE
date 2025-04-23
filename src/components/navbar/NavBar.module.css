@@ -7,8 +7,9 @@
 }
 
 .link {
-    font-size: 1.25rem;
+    font-size: 1.5rem;
     line-height: 1.5rem;
-    color: var(--cor-fonte-principal);
+    color: #000;
+
     text-decoration: none;
 }
