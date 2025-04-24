@@ -53,7 +53,7 @@ export default function AboutLol() {
                     Com esse título, a vTi Ignis abriu as portas para o crescimento do CBLOL, um torneio que se tornaria, com o passar dos anos, <strong> o maior campeonato de League of Legends do Brasil e um dos maiores da América Latina. </strong> A vitória do time não só estabeleceu esses jogadores como os primeiros campeões brasileiros, mas também deu visibilidade ao cenário competitivo de LoL, incentivando o surgimento de novas equipes e organizações que, com o tempo, viriam a se destacar, como a paiN Gaming e a INTZ.
                 </p>
             
-                <h4>E assim o competitivo brasileiro começou</h4>
+                <h4>E assim, o competitivo brasileiro começou</h4>
             <section className={styles.carrosselContainer}>
                 <button onClick={imagemAnterior} className={styles.seta}>&lt;</button>
                 <img src={imagens[indiceAtual]} alt={`Slide ${indiceAtual + 1}`} className={styles.imagemCarrossel} />
