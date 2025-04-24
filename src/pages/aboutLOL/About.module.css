@@ -1,7 +1,7 @@
 .mainCblol {
     background-color: #dadada;
-    padding: 3rem;
-    font-family: 'Arial', sans-serif;
+    padding: 4rem;
+    font-family: sans-serif;
     cursor: default;
 }
 
@@ -11,6 +11,14 @@ h3 {
     color: #333;
     text-align: center;
     margin-bottom: 2rem;
+}
+
+h4 {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #333;
+    text-align: center;
+    margin-top: 3rem;
 }
 
 .historyImageContainer {
@@ -62,3 +70,47 @@ strong {
     font-weight: bold;
     font-size: 1.3rem;
 }
+
+.carrosselContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3rem;
+    gap: 1rem;
+    flex-wrap: nowrap;
+}
+
+.imagemCarrossel {
+    width: 100%;
+    max-width: 1000px;
+    height: 50%;
+    border-radius: 12px;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+    transition: all 0.4s ease-in-out;
+}
+
+.seta {
+    background-color: #2c6bc1;
+    color: #fff;
+    border: none;
+    font-size: 2rem;
+    padding: 0.5rem 1rem;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.seta:hover {
+    background-color: #1f4a88;
+}
+
+@media (max-width: 768px) {
+    .carrosselContainer {
+        flex-direction: column;
+    }
+
+    .seta {
+        font-size: 1.5rem;
+    }
+}
+

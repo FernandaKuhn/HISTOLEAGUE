@@ -4,7 +4,7 @@
     height: 320px;
     display: flex;
     flex-direction: column;
-    justify-content: space-between; /* Importante */
+    justify-content: space-between;
     align-items: center;
     background: white;
     box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.08);
@@ -31,9 +31,8 @@ ul {
 }
 
 .title {
-    font-family: var(--fonte-secundaria);
     font-size: 1rem; 
-    color: var(--azul-escuro);
+    color: #000;
     line-height: 1.5rem;
     margin-top: 0.5rem; 
     margin-bottom: 0.5rem; 
