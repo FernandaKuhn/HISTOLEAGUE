@@ -78,6 +78,7 @@ strong {
     margin-top: 3rem;
     gap: 1rem;
     flex-wrap: nowrap;
+    cursor: default;
 }
 
 .imagemCarrossel {
