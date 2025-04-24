@@ -1,6 +1,7 @@
 .containerCblol{
     background-color: #d6d6d6;
     padding-top: 1rem;
+    padding-bottom: 6rem;
 }
 
 .team {
@@ -13,21 +14,67 @@
 }
 
 .description {
-    font-size: 1.3em;
+    font-size: 1.5em;
     color: #313131;
     max-width: 1000px;
-    margin: 0 auto 2rem;
-    line-height: 1.5rem;
+    margin: 1rem auto 2rem;
+    line-height: 1.6rem;
+    text-align: justify;
     padding-bottom: 0.5rem;
 }
 
 h3 {
-    font-family: var(--fonte-principal);
     font-size: 2.5rem;
     color: #000;
     text-align: center;
     margin-top: 2rem;
-    margin-bottom: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+.lastFinal {
+    max-width: 1000px;
+    margin: 3rem auto 0;
+    padding-top: 2rem;
+    border-top: 2px solid #6b6b6b;
+}
+
+.subtitle {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #202020;
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.videoWrapper {
+    display: flex;
+    justify-content: center;
+    margin-top: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+.videoWrapper iframe {
+    width: 100%;
+    max-width: 720px;
+    height: 405px;
+    border-radius: 12px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
+}
+
+
+.headerSection {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.trophyImage {
+    width: 100%;
+    max-width: 1000px;
+    height: auto;
+    margin: 0 auto 2.6rem;
+    display: block;
+    border-radius: 12px;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
 }
 
 
@@ -36,10 +83,22 @@ h3 {
         margin-top: 0;
         padding: 2rem 1.5rem 3.625rem;
     }
+    .description {
+        margin: 1rem;
+    }
+    .trophyImage {
+        width: 90%;
+    }
 }
 
 @media (max-width: 744px) {
     .team {
         padding: 2rem 1rem 3rem;
+    }
+    .description {
+        margin: 2rem;
+    }
+    .trophyImage {
+        width: 80%;
     }
 }

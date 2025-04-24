@@ -12,7 +12,7 @@ export default function AboutLol() {
             </ul>
 
             <h4 className={styles.subtitle}>Campeões em Alta</h4>
-            <p>Campeões como <strong>Orianna</strong>, <strong>Ahri</strong>, <strong>Syndra</strong> e <strong>Viktor</strong> estão entre os mais escolhidos por sua versatilidade e impacto.</p>
+            <p className={styles.list}>Campeões como <strong>Orianna</strong>, <strong>Ahri</strong>, <strong>Syndra</strong> e <strong>Viktor</strong> estão entre os mais escolhidos por sua versatilidade e impacto.</p>
         </div>
     );
 }
