@@ -1,7 +1,8 @@
-main {
+.mainCblol {
     background-color: #dadada;
     padding: 3rem;
     font-family: 'Arial', sans-serif;
+    cursor: default;
 }
 
 h3 {

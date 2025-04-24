@@ -4,7 +4,7 @@ import img2012 from 'assets/2012.png';
 
 export default function AboutLol() {
     return (
-        <main>
+        <main className={styles.mainCblol} >
             <div>
                 <h3>Onde tudo começou</h3>
                 <figure className={styles.historyImageContainer}>
