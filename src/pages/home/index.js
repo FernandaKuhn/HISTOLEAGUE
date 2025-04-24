@@ -1,12 +1,13 @@
 import Banner from "components/banner";
 import styles from "./Home.module.css"
-
+import FunFacts from "components/funfacts";
+import LtaNow from "components/ltanow";
 import team from 'json/teamLtaSul.json'
 import Teams from "components/Teams/index"
 
 export default function Home() {
     return (
-        <main >
+        <main className={styles.containerHome}>
             <Banner />
             <div>
                 <h3>LTA SUL - Times</h3>
@@ -22,7 +23,8 @@ export default function Home() {
                     </li>
                 ))}
             </ul>
-
+            <FunFacts />
+            <LtaNow />
         </main>
 
     )
