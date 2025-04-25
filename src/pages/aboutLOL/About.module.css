@@ -106,6 +106,9 @@ strong {
 }
 
 @media (max-width: 768px) {
+    .mainCblol {
+        padding: 1rem;
+    }
     .carrosselContainer {
         flex-direction: column;
     }
